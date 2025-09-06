@@ -5,7 +5,7 @@
 
 ## ✨ From Dreams to Degrees
 
-Studying abroad should be exciting, not overwhelming. Yet thousands of students in Central Asia struggle every year with scattered information, confusing requirements, and expensive consulting agencies.  
+Studying abroad should be exciting, not overwhelming. Yet many students in Central Asia struggle every year with scattered information, confusing requirements, and expensive consulting agencies.  
 
 **OQOOJ AI** is a smarter, simpler, and more affordable way to plan your journey from high school to university.
 
@@ -13,41 +13,31 @@ Studying abroad should be exciting, not overwhelming. Yet thousands of students 
 
 ## 🚀 Key Features
 
-### 🎯 Smart University Matching
-Based on your grades, budget, language level, and goals, our AI recommends the programs that fit *you* best — not just what agencies want to sell.
+### 🎯 Smart University Recommendations
+AI suggests programs that fit your profile, including GPA, budget, and language level.
 
-### 📋 Personalized Checklists for Admission & Visas
-Step-by-step task lists with deadlines so you stay on track from application to arrival.
+### 📋 Personalized Checklists
+Step-by-step task lists for admission and visa requirements to keep you on track.
 
-### 📝 Document Review & Feedback
-Upload your CVs, essays, or statements — get instant AI feedback to polish your documents and improve your chances.
+### 📝 Document Guidance
+Get AI-based feedback on CVs, essays, and statements to help improve your applications.
 
-### 💬 Always-On Study Abroad Assistant
-Ask our AI chatbot questions about requirements, deadlines, or forms anytime, 24/7.
+### 💬 Always-On Assistant
+Ask questions about deadlines, forms, or requirements anytime through an AI chatbot.
 
-### ⏰ Progress Dashboard & Reminders
-Track your journey in one place and get friendly nudges before deadlines sneak up.
+### ⏰ Progress Tracking & Reminders
+Monitor your journey in one place and receive friendly notifications about upcoming deadlines.
 
 ---
 
-## 🔮 What’s Next for OQOOJ AI
+## 🔮 Future Plans
 
-We’re just getting started. Our MVP focuses on guiding Central Asian students through university applications — but our vision goes much further:
+- Direct university application support  
+- Scholarship and program matching  
+- Hybrid model with optional human guidance  
+- Integrations with schools and educational institutions  
 
-- 🤝 **Direct University Partnerships**  
-  Apply directly through OQOOJ AI, with access to exclusive scholarships and faster admissions.
-
-- 🏫 **Common App for Central Asia**  
-  A single application platform for multiple universities — no more repeating the same forms.
-
-- 📊 **Scholarship & Program Matching**  
-  AI that not only finds universities but also matches you with the right funding opportunities and events.
-
-- 👨‍🏫 **Hybrid Model with Human Consultants**  
-  For students who want extra reassurance, we’ll connect them with trusted experts alongside AI guidance.
-
-- 🌍 **Government & School Integrations**  
-  Partnering with ministries of education and schools to make OQOOJ AI the official platform for study abroad applications.
+*(Specific partnerships, datasets, and internal AI models are confidential.)*
 
 ---
 
